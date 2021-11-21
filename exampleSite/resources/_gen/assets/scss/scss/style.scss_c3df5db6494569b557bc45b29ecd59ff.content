@@ -6487,7 +6487,7 @@ textarea.form-control-lg {
 
 /*  typography */
 html {
-  font-size: 20px; }
+  font-size: 15px; }
 
 body {
   font-family: "Raleway", sans-serif;
@@ -6519,82 +6519,82 @@ small,
 
 h6,
 .h6 {
-  font-size: 26px;
+  font-size: 19.5px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h6,
     .h6 {
-      font-size: calc( 26px * .85); } }
+      font-size: calc( 19.5px * .85); } }
   @media (max-width: 575px) {
     h6,
     .h6 {
-      font-size: calc( 26px * .65); } }
+      font-size: calc( 19.5px * .65); } }
 h5,
 .h5 {
-  font-size: 33.8px;
+  font-size: 25.35px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h5,
     .h5 {
-      font-size: calc( 33.8px * .85); } }
+      font-size: calc( 25.35px * .85); } }
   @media (max-width: 575px) {
     h5,
     .h5 {
-      font-size: calc( 33.8px * .65); } }
+      font-size: calc( 25.35px * .65); } }
 h4,
 .h4 {
-  font-size: 43.94px;
+  font-size: 32.955px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h4,
     .h4 {
-      font-size: calc( 43.94px * .85); } }
+      font-size: calc( 32.955px * .85); } }
   @media (max-width: 575px) {
     h4,
     .h4 {
-      font-size: calc( 43.94px * .65); } }
+      font-size: calc( 32.955px * .65); } }
 h3,
 .h3 {
-  font-size: 57.122px;
+  font-size: 42.8415px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h3,
     .h3 {
-      font-size: calc( 57.122px * .85); } }
+      font-size: calc( 42.8415px * .85); } }
   @media (max-width: 575px) {
     h3,
     .h3 {
-      font-size: calc( 57.122px * .65); } }
+      font-size: calc( 42.8415px * .65); } }
 h2,
 .h2 {
-  font-size: 74.2586px;
+  font-size: 55.69395px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h2,
     .h2 {
-      font-size: calc( 74.2586px * .85); } }
+      font-size: calc( 55.69395px * .85); } }
   @media (max-width: 575px) {
     h2,
     .h2 {
-      font-size: calc( 74.2586px * .65); } }
+      font-size: calc( 55.69395px * .65); } }
 h1,
 .h1 {
-  font-size: 96.53618px;
+  font-size: 72.402135px;
   line-height: calc(2px + 2ex + 2px);
   margin-bottom: 0.65em; }
   @media (max-width: 767px) {
     h1,
     .h1 {
-      font-size: calc( 96.53618px * .85); } }
+      font-size: calc( 72.402135px * .85); } }
   @media (max-width: 575px) {
     h1,
     .h1 {
-      font-size: calc( 96.53618px * .65); } }
+      font-size: calc( 72.402135px * .65); } }
 /* Button style */
 .btn {
   font-size: 1rem;
