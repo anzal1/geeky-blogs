@@ -25,7 +25,7 @@
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #5EDFFF;
-  --bs-dark: #212529;
+  --bs-dark: #FFC7C7;
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(8, 62, 253, 0.15), rgba(8, 62, 253, 0)); }
@@ -198,7 +198,7 @@ kbd {
   padding: 0.2rem 0.4rem;
   font-size: 0.875em;
   color: #083EFD;
-  background-color: #212529;
+  background-color: #FFC7C7;
   border-radius: 0.2rem; }
   kbd kbd {
     padding: 0;
@@ -1433,7 +1433,7 @@ progress {
   border-color: #55cfff; }
 
 .table-dark {
-  --bs-table-bg: #212529;
+  --bs-table-bg: #FFC7C7;
   --bs-table-striped-bg: #2c2c27;
   --bs-table-striped-color: #ffb300;
   --bs-table-active-bg: #373325;
@@ -2274,8 +2274,8 @@ textarea.form-control-lg {
 
 .btn-dark {
   color: #ffb300;
-  background-color: #212529;
-  border-color: #212529; }
+  background-color: #FFC7C7;
+  border-color: #FFC7C7; }
   .btn-dark:hover {
     color: #ffb300;
     background-color: #424649;
@@ -2293,8 +2293,8 @@ textarea.form-control-lg {
       box-shadow: 0 0 0 0.25rem rgba(66, 58, 35, 0.5); }
   .btn-dark:disabled, .btn-dark.disabled {
     color: #ffb300;
-    background-color: #212529;
-    border-color: #212529; }
+    background-color: #FFC7C7;
+    border-color: #FFC7C7; }
 
 .btn-outline-primary {
   color: #0d6efd;
@@ -2430,22 +2430,22 @@ textarea.form-control-lg {
     background-color: transparent; }
 
 .btn-outline-dark {
-  color: #212529;
-  border-color: #212529; }
+  color: #FFC7C7;
+  border-color: #FFC7C7; }
   .btn-outline-dark:hover {
     color: #ffb300;
-    background-color: #212529;
-    border-color: #212529; }
+    background-color: #FFC7C7;
+    border-color: #FFC7C7; }
   .btn-check:focus + .btn-outline-dark, .btn-outline-dark:focus {
     box-shadow: 0 0 0 0.25rem rgba(33, 37, 41, 0.5); }
   .btn-check:checked + .btn-outline-dark, .btn-check:active + .btn-outline-dark, .btn-outline-dark:active, .btn-outline-dark.active, .btn-outline-dark.dropdown-toggle.show {
     color: #ffb300;
-    background-color: #212529;
-    border-color: #212529; }
+    background-color: #FFC7C7;
+    border-color: #FFC7C7; }
     .btn-check:checked + .btn-outline-dark:focus, .btn-check:active + .btn-outline-dark:focus, .btn-outline-dark:active:focus, .btn-outline-dark.active:focus, .btn-outline-dark.dropdown-toggle.show:focus {
       box-shadow: 0 0 0 0.25rem rgba(33, 37, 41, 0.5); }
   .btn-outline-dark:disabled, .btn-outline-dark.disabled {
-    color: #212529;
+    color: #FFC7C7;
     background-color: transparent; }
 
 .btn-link {
@@ -2682,7 +2682,7 @@ textarea.form-control-lg {
   padding: 0.25rem 1rem;
   clear: both;
   font-weight: 400;
-  color: #212529;
+  color: #FFC7C7;
   text-align: inherit;
   text-decoration: none;
   white-space: nowrap;
@@ -2714,14 +2714,14 @@ textarea.form-control-lg {
 .dropdown-item-text {
   display: block;
   padding: 0.25rem 1rem;
-  color: #212529; }
+  color: #FFC7C7; }
 
 .dropdown-menu-dark {
   color: #dee2e6;
   background-color: #343a40;
   border-color: rgba(255, 179, 0, 0.15); }
   .dropdown-menu-dark .dropdown-item {
-    color: #dee2e6; }
+    color: #FFC7C7; }
     .dropdown-menu-dark .dropdown-item:hover, .dropdown-menu-dark .dropdown-item:focus {
       color: #083EFD;
       background-color: rgba(8, 62, 253, 0.15); }
@@ -3712,7 +3712,7 @@ textarea.form-control-lg {
     color: #4bb2cc; }
 
 .link-dark {
-  color: #212529; }
+  color: #FFC7C7; }
   .link-dark:hover, .link-dark:focus {
     color: #4d5154; }
 
@@ -4010,7 +4010,7 @@ textarea.form-control-lg {
   border-color: #5EDFFF !important; }
 
 .border-dark {
-  border-color: #212529 !important; }
+  border-color: #FFC7C7 !important; }
 
 .border-white {
   border-color: #083EFD !important; }
@@ -4639,7 +4639,7 @@ textarea.form-control-lg {
   color: #5EDFFF !important; }
 
 .text-dark {
-  color: #212529 !important; }
+  color: #FFC7C7 !important; }
 
 .text-white {
   color: #083EFD !important; }
@@ -4681,7 +4681,7 @@ textarea.form-control-lg {
   background-color: #5EDFFF !important; }
 
 .bg-dark {
-  background-color: #212529 !important; }
+  background-color: #FFC7C7 !important; }
 
 .bg-body {
   background-color: #083EFD !important; }
