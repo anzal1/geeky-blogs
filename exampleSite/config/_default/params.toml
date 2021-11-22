@@ -12,11 +12,11 @@ logo_text = "Boilerplate"
 navbar_fixed = true
 # OpenGraph / Twitter Card metadata
 description = "Geeky-blogs by Anzal Husain Abidi"
-author = "Themefisher"
+author = "Anzal Husain Abidi"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "337/215 Kazmain Road,Mansoor Nagar,Lucknow"
-mobile = "+9140459232"
+address = "337/215 Kazmain Road,Lucknow"
+mobile = "(+91)9140459232"
 email = "cofclan145@gmail.com"
 # contact form action
 contact_form_action = "https://formspree.io/f/xqkwrjvz" # contact form works with https://formspree.io
@@ -40,8 +40,8 @@ custom_script= ""
 
 # Preloader
 [preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "preloader.gif" # use jpg, png, svg or gif format.
 
 # Banner
 [banner]

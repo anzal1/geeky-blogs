@@ -22,7 +22,8 @@ experience:
   title: "Work Experience"
   experience_list:
 
-  - "Still trying to gain work experience."
+  - "Freelancing."
+  - "Open source contributions."
 
 ---
 ##### HEY ! IT'S ANZAL HERE,
